@@ -6,7 +6,7 @@ Use the left and right arrow keys to switch between lanes, or use the "a" and "d
 If you're at the fourth lane, going right brings you to the first lane.<br>
 If you're at the first lane, going left brings you to the fourth lane.<br>
 
-There are two songs, Final Hope and Cleyera, both by Riya.
+There are two songs, Final Hope and Cleyera, both by Riya. <br>
 Final Hope is easier but contains gimmicks, while Cleyera has no gimmicks but harder charting.
 
 ### Video demo link:
